@@ -1,0 +1,12 @@
+{
+    "name": "Nginx Rtmp Server",
+    "version": "1",
+    "slug": "nginx_rtmp_server",
+    "description": "A rtmp server",
+    "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+    "startup": "services",
+    "host_network": true,
+    "boot": "auto",
+    "options": {},
+    "schema": {}
+  }
